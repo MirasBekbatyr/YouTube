@@ -1,0 +1,82 @@
+.height{
+	height: 50px;
+	margin-bottom: 9px;
+}
+
+.logo{
+	width: 150px;
+	margin-left: 25px;
+}
+
+.burger{
+	width: 50px;
+}
+
+.search{
+	width: 500px;
+	height: 46px;
+	margin-left: 100px;
+	margin-top: 2px;
+}
+
+.input-group{
+	width: 700px;
+	height: 46px;
+	margin-left: 100px;
+	margin-top: 2px;
+}
+
+.k{
+	width: 25px;
+}
+
+.h{
+	height: 50px;
+	width: 50px;
+}
+
+.search{
+	border-radius: 5px;
+}
+
+.video{
+	width: 50px;
+	margin-left: 15px;
+}
+
+.z{
+	width: 25px;
+}
+
+.h900{
+	height: 900px;
+}
+
+.h200{
+	height: 200px;
+}
+
+.h700{
+	height: 700px;
+}
+
+.h100{
+	height: 100px;
+}
+
+.p{
+	font-size: 10px;
+}
+
+.mt5{
+	margin-top: 15px;
+}
+
+.img{
+	width: 170px;
+	height: 120px;
+}
+
+.t{
+	font-family: Arial;
+}
